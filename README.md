@@ -27,3 +27,4 @@ E importar as funções de cada algoritmo. Por exemplo, para importar a função
 [**Camilo de Lellis**](https://github.com/delellisc)
 
 Creator of the project.
+
